@@ -1,8 +1,4 @@
-# Restaurante Universitario
-
-Projeto de um Restaurante Universitario simples para fixar conhecimentos em Spring e Angular.
-
-![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+# Planejamento
 
 ### Problematica
 
@@ -24,9 +20,24 @@ Por dia há um numero maximo de refeicões que o RU consegue produzir. As refeic
 - **Cardápio**: Lista de refeiçoes por dia da semana.
 - **Venda**: Uma refeição vendida para um dia da semana que esteja disponivel no cardapio
 
-### Documentação
+### Arquitetura
 
-* [Planejamento](docs/PLANEJAMENTO.md)
-* [Iniciando o projeto](docs/GET_STARTED.md)
-* [Ajuda](docs/SUPPORT.md)
-* [Código de Conduta](docs/CODE_OF_CONDUCT.md)
+<img src="imgs/front-back.png"/>
+
+### Entidades
+
+<img src="imgs/entities.png"/>
+
+### API
+
+<img src="imgs/camadas.png"/>
+
+<img src="imgs/camadas-dieta.png"/>
+
+<img src="imgs/camadas-refeicao.png"/>
+
+<img src="imgs/camadas-refeicaodisponivel.png"/>
+
+<img src="imgs/camadas-restaurante.png"/>
+
+<img src="imgs/camadas-valerefeicao.png"/>
