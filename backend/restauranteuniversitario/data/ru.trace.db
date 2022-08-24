@@ -1,0 +1,3 @@
+2022-08-23 23:15:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DIETA" not found (this database is empty); SQL statement:
+INSERT INTO dieta (id, nome, descricao) VALUES (1, 'Onívora', 'Caiu na rede é peixe') [42104-214]
